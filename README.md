@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madlopt
-- 👀 I’m interested in PHP, Go, Kafka, K8S
+- 👀 I’m interested in PHP, Go, Node.JS, Kafka, K8S
 - 📫 How to reach me @madloptus
 
 <!---
